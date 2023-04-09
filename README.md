@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tjkirchmann
-- 👀 I’m interested in Data Science (Analytics, Machine Learning, etc.)
-- 🌱 I’m currently learning Python, SQL, Java, and Hadoop later on this fall. 
-- 💞️ I’m looking to collaborate on large projects with the scope of LuxAi.
+- 👀 I’m interested in Data Science (Analytics, Machine Learning, etc.) and Analytics Web Apps
+- 🌱 I’m currently learning Django, Rust, Javascript (Vue), and CockroachDB 
 - 📫 How to reach me: Email tjkirchmann@gmail.com
